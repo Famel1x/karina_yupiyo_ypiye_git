@@ -1,0 +1,11 @@
+2025-03-12 23:52:23,370 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.165:5000
+2025-03-12 23:52:23,370 INFO: [33mPress CTRL+C to quit[0m
+2025-03-12 23:52:39,018 INFO: 127.0.0.1 - - [12/Mar/2025 23:52:39] "OPTIONS /api HTTP/1.1" 200 -
+2025-03-12 23:52:39,271 INFO: 127.0.0.1 - - [12/Mar/2025 23:52:39] "POST /api HTTP/1.1" 200 -
+2025-03-12 23:53:14,263 INFO: 127.0.0.1 - - [12/Mar/2025 23:53:14] "OPTIONS /api HTTP/1.1" 200 -
+2025-03-12 23:53:14,575 INFO: 127.0.0.1 - - [12/Mar/2025 23:53:14] "POST /api HTTP/1.1" 200 -
+2025-03-12 23:54:07,788 INFO: 127.0.0.1 - - [12/Mar/2025 23:54:07] "OPTIONS /api HTTP/1.1" 200 -
+2025-03-12 23:54:08,101 INFO: 127.0.0.1 - - [12/Mar/2025 23:54:08] "POST /api HTTP/1.1" 200 -

@@ -2,7 +2,8 @@
     "manifest_version": 3,
     "name": "Content Sender",
     "version": "1.0",
-    "permissions": ["tabs", "scripting"], 
+    "permissions": ["tabs", "scripting", "activeTab"],
+    "host_permissions": ["*://*/*"],
     "action": {
       "default_popup": "popup/popup.html"
     }
